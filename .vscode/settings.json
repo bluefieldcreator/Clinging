@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "c:\\MinGW\\bin\\gcc.exe",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdio.h": "c"
+    }
+}
